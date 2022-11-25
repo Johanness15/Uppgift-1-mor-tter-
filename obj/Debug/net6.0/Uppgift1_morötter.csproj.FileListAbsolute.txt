@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\bin\Debug\net6.0\Uppgift1_morötter.exe
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\bin\Debug\net6.0\Uppgift1_morötter.deps.json
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\bin\Debug\net6.0\Uppgift1_morötter.runtimeconfig.json
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\bin\Debug\net6.0\Uppgift1_morötter.dll
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\bin\Debug\net6.0\Uppgift1_morötter.pdb
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.dll
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\refint\Uppgift1_morötter.dll
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.pdb
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\Uppgift1_morötter.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Uppgift1_mor-tter-master\Uppgift1_mor-tter-master\Uppgift1_morötter\obj\Debug\net6.0\ref\Uppgift1_morötter.dll
